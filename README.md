@@ -1,2 +1,2 @@
 # jquery-dropdown-load
-Jquery dropdown load remote data.
+基于 Jquery 的下拉自动加载插件
